@@ -8,3 +8,11 @@ Hence using NLP we can find ranking of papers based on relevance to a specific q
 
 ## Dataset:
 The dataset of research papers is available on [Kaggle.com](https://www.kaggle.com/jagtapraj/covid-19-research-paper-ranking/data)
+
+## Algorithms Used
+1. GloVe vectors + Cosine Similarity
+2. GloVe vectors + KNN
+3. GloVe vectors + CNN
+4. TF-IDF
+5. Topic Modelling : EDA
+6. BERT : Sentence Transformers
