@@ -16,3 +16,11 @@ The dataset of research papers is available on [Kaggle.com](https://www.kaggle.c
 4. TF-IDF
 5. Topic Modelling : EDA
 6. BERT : Sentence Transformers
+
+## Team
+1. Raj S. Jagtap
+2. Raj Hansini Khoiwal
+3. Rajat Kumar Singh
+4. Rahul Baviskar
+5. Kalyani Goyal
+6. Pulaksh Garg
