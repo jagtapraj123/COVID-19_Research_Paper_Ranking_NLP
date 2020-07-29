@@ -16,6 +16,7 @@ The dataset of research papers is available on [Kaggle.com](https://www.kaggle.c
 4. TF-IDF
 5. Topic Modelling : EDA
 6. BERT : Sentence Transformers
+7. Text Summarisation
 
 ## Team
 1. Raj S. Jagtap
